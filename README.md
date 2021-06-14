@@ -13,3 +13,5 @@ convertido a HTML y ficheros de configuración para integración continua usando
 (en concreto [Travis](http://travis-ci.com) y [Shippable](http://shippable.com),
 así como deployment al [PaaS Heroku](http://heroku.com).
 
+Este es un fork del original situado en las indicaciones anteriores y que está en el repositorio de JJ.
+
